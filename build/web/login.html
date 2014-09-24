@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>Login</title>
+        <style type="text/css">
+            #formlabel{
+                text-align:right;
+                font-weight: bold;
+            }
+            #table{
+                border: 0;
+            }
+
+            #wrapper
+            {
+                display: block;
+                width: 800px;
+                height: auto;
+                margin: auto;
+                margin-top: 20%;
+                Font-size: 12px;
+                font-family:"Verdana",Georgia,Serif;
+            }
+        </style>
+    </head>
+    <body>
+    <center>
+        <div id="wrapper">
+            <h1>Login</h1>
+            <p>
+                Welcome!<br/>
+                Please enter your Account Number and password to log in.
+            </p>
+
+            <form action="LoginHandler" method="POST">
+                <table>
+                    <tr><td colspan="2">
+                        </td></tr>
+
+                    <tr><td>
+                            <p class="formlabel">Username:</p>
+                        </td>
+                        <td>
+                            <p><input type="text" name="account" value="" size="15"/></p>
+                        </td></tr>
+
+                    <tr><td>
+                            <p class="formlabel">Password:</p>
+                        </td>
+                        <td>
+                            <p><input type="password" name="password" value="" size="15"/></p>
+                        </td></tr>                                                            
+
+                    <tr><td colspan="2">                                                  
+                            <input type="submit" value="OK"/>
+                        </td></tr>
+                </table>
+            </form>  
+        </div>
+    </center>
+</body>
+</html>      

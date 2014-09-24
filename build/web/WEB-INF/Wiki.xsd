@@ -1,0 +1,973 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="AoT">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="about">
+          <xs:complexType>
+            <xs:sequence>
+                <xs:element name="studio">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="sname_1"/>
+                    <xs:element type="xs:string" name="sname_2"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="overview">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="genre"/>
+                    <xs:element type="xs:string" name="setting"/>
+                    <xs:element type="xs:string" name="seq_1"/>
+                    <xs:element type="xs:string" name="seq_2"/>
+                    <xs:element type="xs:string" name="seq_3"/>
+                    <xs:element type="xs:string" name="seq_4"/>
+                    <xs:element type="xs:string" name="seq_5"/>
+                    <xs:element type="xs:string" name="seq_6"/>
+                    <xs:element type="xs:string" name="seq_7"/>
+                    <xs:element type="xs:string" name="plot"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element type="xs:string" name="hair"/>
+              <xs:element name="characters">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="mainChars">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="mimg_0"/>
+                          <xs:element type="xs:string" name="mimg_1"/>
+                          <xs:element type="xs:string" name="mc1"/>
+                          <xs:element type="xs:string" name="mimg_2"/>
+                          <xs:element type="xs:string" name="mc2"/>
+                          <xs:element type="xs:string" name="mimg_3"/>
+                          <xs:element type="xs:string" name="mc3"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="onefourth">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="oF1"/>
+                          <xs:element type="xs:string" name="oF2"/>
+                          <xs:element type="xs:string" name="oF3"/>
+                          <xs:element type="xs:string" name="oF4"/>
+                          <xs:element type="xs:string" name="oF5"/>
+                          <xs:element type="xs:string" name="oF6"/>
+                          <xs:element type="xs:string" name="oF7"/>
+                          <xs:element type="xs:string" name="oF8"/>
+                          <xs:element type="xs:string" name="oF9"/>
+                          <xs:element type="xs:string" name="oF10"/>
+                          <xs:element type="xs:string" name="oF11"/>
+                          <xs:element type="xs:string" name="oF12"/>
+                          <xs:element type="xs:string" name="oF13"/>
+                          <xs:element type="xs:string" name="oF14"/>
+                          <xs:element type="xs:string" name="oF15"/>
+                          <xs:element type="xs:string" name="oF16"/>
+                          <xs:element type="xs:string" name="oF17"/>
+                          <xs:element type="xs:string" name="oF18"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="mpb">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="cm"/>
+                          <xs:element type="xs:string" name="mp0"/>
+                          <xs:element type="xs:string" name="mp1"/>
+                          <xs:element type="xs:string" name="mp2"/>
+                          <xs:element type="xs:string" name="mp3"/>
+                          <xs:element type="xs:string" name="mp4"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="gar">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="cg"/>
+                          <xs:element type="xs:string" name="gar0"/>
+                          <xs:element type="xs:string" name="gar1"/>
+                          <xs:element type="xs:string" name="gar2"/>
+                          <xs:element type="xs:string" name="gar3"/>
+                          <xs:element type="xs:string" name="gar4"/>
+                          <xs:element type="xs:string" name="gar5"/>
+                          <xs:element type="xs:string" name="gar6"/>
+                          <xs:element type="xs:string" name="gar7"/>
+                          <xs:element type="xs:string" name="gar8"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="recon">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="cr"/>
+                          <xs:element name="sc">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="rc0"/>
+                                <xs:element type="xs:string" name="rc1"/>
+                                <xs:element type="xs:string" name="rc2"/>
+                                <xs:element type="xs:string" name="rc3"/>
+                                <xs:element type="xs:string" name="rc4"/>
+                                <xs:element type="xs:string" name="rc5"/>
+                                <xs:element type="xs:string" name="rc6"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="specops">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="sc0"/>
+                                <xs:element type="xs:string" name="sc1"/>
+                                <xs:element type="xs:string" name="sc2"/>
+                                <xs:element type="xs:string" name="sc3"/>
+                                <xs:element type="xs:string" name="sc4"/>
+                                <xs:element type="xs:string" name="sc5"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="military">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="m1"/>
+                          <xs:element type="xs:string" name="m2"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="otherChars">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="oc1"/>
+                          <xs:element type="xs:string" name="oc2"/>
+                          <xs:element type="xs:string" name="oc3"/>
+                          <xs:element type="xs:string" name="oc4"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="titans">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="t0"/>
+                          <xs:element type="xs:string" name="t1"/>
+                          <xs:element type="xs:string" name="t2"/>
+                          <xs:element type="xs:string" name="t3"/>
+                          <xs:element type="xs:string" name="t4"/>
+                          <xs:element type="xs:string" name="t5"/>
+                          <xs:element type="xs:string" name="t6"/>
+                          <xs:element type="xs:string" name="t7"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="equipment">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="dmg_1"/>
+                    <xs:element type="xs:string" name="dmg_2"/>
+                    <xs:element type="xs:string" name="dmg_3"/>
+                    <xs:element type="xs:string" name="threedmg"/>
+                    <xs:element type="xs:string" name="usage"/>
+                    <xs:element type="xs:string" name="origin"/>
+                    <xs:element type="xs:string" name="mechanic"/>
+                    <xs:element type="xs:string" name="training"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element type="xs:string" name="s_0"/>
+        <xs:element type="xs:string" name="s_1"/>
+        <xs:element type="xs:string" name="s_2"/>
+        <xs:element name="season">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_1">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_1">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_1">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_1">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_1"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_2">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_2">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_2">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_2">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_2"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_3">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_3">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_3">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_3">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_3">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_3"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_4">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_4">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_4">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_4">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_4">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_4"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_5">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_5">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_5">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_5">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_5">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_5"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_6">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_6">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_6">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_6">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_6">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_6"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_7">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_7">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_7">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_7">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_7">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_7"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_8">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_8">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_8">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_9">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_7">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_8"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_9">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_9">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_9">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_9">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_9">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_9"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_10">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_10">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_10">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_10">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_10">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_10"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_11">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_11">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_11">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_11">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_11">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_11"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_12">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_12">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_12">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_12">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_12">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_12"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_13">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_13">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_13">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_13">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_13">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_13"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_14">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_14">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_14">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_14">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_14">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_14"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_15">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_15">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_15">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_15">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_15">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_15"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_16">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_16">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_16">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_16">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_16">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_16"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_17">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_17">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_17">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_17">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_17">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_17"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_18">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_18">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_18">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_18">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_18">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_18"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_19">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_19">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_19">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_19">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_19">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_19"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_20">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_20">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_20">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_20">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_20">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_20"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_21">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_21">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_21">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_21">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_21">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_21"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_22">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_22">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_22">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_22">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_22">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_22"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_23">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_23">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_23">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_23">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_23">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_23"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="season_24">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="number_24">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="episode_24">
+                      <xs:complexType mixed="true">
+                        <xs:sequence>
+                          <xs:element name="title_24">
+                            <xs:complexType mixed="true">
+                              <xs:sequence>
+                                <xs:element name="aired_24">
+                                  <xs:complexType mixed="true">
+                                    <xs:sequence>
+                                      <xs:element type="xs:string" name="summary_24"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

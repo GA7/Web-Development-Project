@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<AoT>
+    
+    <about>
+        
+        <studio>
+            <sname_1>Wit Studio</sname_1>
+            <sname_2>Production I.G.</sname_2>
+        </studio>
+				
+        <overview>
+            
+            <genre>
+                Dark fantasy, Tragedy, Dystopian
+            </genre>
+						
+            <setting>
+                One hundred years prior to the beginning of the story, giant humanoid creatures called Titans have forced humanity to retreat into a 
+                system of concentric walls known as Wall Maria(outermost), Wall Rosé(middle), and Wall Sina(innermost). Inside these walls, humanity lived in peace for one hundred years, but a sudden attack by a 
+                gigantic sixty-meter Titan and a smaller Titan covered in armor plates caused the outermost wall to be breached, forcing mankind to abandon the land 
+                between Wall Maria and Wall Rosé, resulting in turmoil and famine.
+						
+                Little is known about the Titans; giant creatures ranging from 3-15 meters tall, which instinctively attack and devour ordinary humans on sight. 
+                However, they apparently do not require meat as sustenance, as they do not prey on other animals, even with the long absence of humans, and apparently gain their energy directly from sunlight. They have hard skin and regenerative abilities, and can only be killed by a deep incision at the base 
+                This weakness led to the development of the Vertical Maneuvering Equipment, allowing humans to navigate quickly in a three-dimensional space. Although it premits great mobility to a skilled user, it carries a large risk of overtaxing the muscles, requiring extensive physical conditioning and agility.						 
+            </setting>
+            
+            <seq_1>1.gif</seq_1>	
+            <seq_2>2.gif</seq_2>
+            <seq_3>3.gif</seq_3>
+            <seq_4>4.gif</seq_4>
+            <seq_5>5.gif</seq_5>
+            <seq_6>6.gif</seq_6>
+            <seq_7>7.gif</seq_7>
+            
+            <plot>
+                The series follows the story of Eren Yeager, his adopted sister Mikasa Ackerman, and their friend Armin Arlert. After the outermost Wall is breached by Titans, including the 60-meter tall skinless Colossus Titan and the abnormally intelligent Armored Titan, and his mother dying in the resulting destruction,
+                Eren vows revenge against the Titans and later enlists in the military, accompanied by Mikasa and Armin. Years later during his first battle against the Titans, Eren discovers that he has the ability to transform into a Titan at will. Seen as a threat to mankind by some, and as a ray of hope by others, 
+                Eren joins his companions in a desperate fight to protect what remains of their society while looking for answers to the mysteries surrounding the Titans, the Walls, and his own existence as well.
+            </plot>
+        </overview>
+				
+        <hair>Hair.png</hair>                        
+                                
+        <characters>
+            <mainChars>
+                <mimg_0>Lema.gif</mimg_0>
+                <mimg_1>Eren.gif</mimg_1>
+                <mc1>
+                    The main protagonist of the series. Idealistic, hotheaded, aggressive, and impulsive, Eren seeks to annihilate the Titans and explore the outside world. As a child, age 9, he killed two of the kidnappers who murdered Mikasa's family and convinced Mikasa to fight and kill the third one while he was being strangled by the latter. He and his father came looking for her after finding her parents' bodies. He was ranked 5th in his trainee class, having no particular talent aside from his excellent close combat skills, but has been slowly but steadily improving his grades through outstanding effort and a strong sense of purpose. Following his mother's death, Eren has a brief encounter with his father who entrusts him with a key to their old house's basement in Shiganshina, claiming that he must reach it by whatever means necessary, but is not informed by him about what really is hidden there.
+                    Later it is revealed that Eren possess the strange ability to summon and control the body of a 15 meter class Titan. Eren believes this ability to be the result of injections given to him by his father after the death of his mother, although there are indications that he had those powers way before this point. He initially had little control over the Titan body that he summons, and would attack anything that he sees while in this form but after further use he gained full control. When the Titan's body can no longer be maintained, Eren emerges from the nape of the Titan's neck (the common weak point of all Titans), where his body is fused to the Titan. When encountering the Titan that devoured his mother years earlier during his kidnapping by Reiner and Bertholdt, Eren suddenly develops a new ability to mentally control other Titans. After first subconsciously directing a group to kill and devour the Titan that killed his mother, he then directs the Titans to attack the Armored Titan so he and his friends can escape back to within the Walls. After being rescued, Eren is sent with his friends to an isolate village while preparations are made for a campaign to retake Wall Maria for good, by making use of his newfound power.
+                </mc1>
+                        
+                <mimg_2>Mikasa.gif</mimg_2>
+                <mc2>
+                    Adopted child of the Yeager family. Mikasa is the last known Asian living within the Walls after they were wiped out by the Titans. She is a quiet and withdrawn girl and her expression is always stoic except when Eren is in danger. Before she was adopted by the Yeagers, Mikasa and her mother were targeted by slave traders due to their race. However, after the slavers killed her father, Mikasa's mother lashed out to defend her daughter, resulting in her death. Mikasa was saved by Eren after he found them and killed the slavers. Due to this incident, she is very protective of Eren, and will follow and protect him no matter the circumstances, thinking that Eren is the last family she has and needs to stick with him no matter what. Although as the story progresses, it appears that the family kinship she feels for Eren is much deeper than what she claims. She only joins the military because of Eren. And although not literally thrilled to become a soldier she was ranked first in her graduating class. She is considered an unprecedented genius, a prodigy who excels in the most difficult courses. She is often teased about her attachment to her foster brother.
+                </mc2>
+                
+                <mimg_3>Armin.gif</mimg_3>
+                <mc3>
+                    Eren's childhood best friend and Mikasa's closest friend. He is physically frail and relatively intrepid. Though timid and faint, his strategic intuition has saved Eren and Mikasa - and later everyone - several times. He believes himself to be completely incompetent in the beginning and hates himself for having to rely on his friends all the time. While Mikasa always fears for Eren's life, Eren worries for Armin's safety whenever they are in battle. It is also noted that Armin is the only one who manages to connect to and make Eren snap out of the animalistic control of his Titan side when he nearly kills Mikasa and snaps him out of his doubts when Eren cannot not shift into his Titan form because of Annie. Armin has sub-par physical aptitude by soldiers' standards but is an alleged genius when it comes to theoretical courses. It is Mikasa who first encourages Armin out of his belief of being incompetent by pointing out that his strategic intuitions have always saved her and Eren in the past and he should have more faith in himself. As the story progresses his confidence blooms and his brilliant planning, tactics and deduction impresses high ranking officers that they respects his opinions considerably.
+                </mc3>
+            </mainChars>
+					
+            <onefourth>
+                <oF1>Ranked 2nd of the trainee class, is considered strong-willed with a solid constitution and most adept at gaining the trust of his comrades. It is eventually revealed that he is the Armored Titan, who accompanied the Colossus Titan on the attack that destroyed the gate at Wall Maria. Due to his camaraderie with the graduates, he is beginning to experience fugues that separate his identity as the Armored Titan and his identity as Reiner. According to Reiner, he, along Bertolt and Annie were sent to infiltrate the walls seeking an unknown item he labels as "The Coordinate" which is later revealed as the ability to control other Titans, and were suspicious that Eren might have some connection with it, which were confirmed when Eren learns to use it.</oF1>
+                <oF2>Ranked 3rd of the trainee class. Highly proficient in various hand to hand combat styles. He seems to have great potential but lacks in self-confidence and has a tendency to leave it to others whenever it comes to showing assertiveness. It is eventually revealed that he is the infamous 60 meter tall Colossus Titan who destroyed Wall Maria five years prior. Reiner implies that he has a crush on Annie due to his tendency to stare at her.</oF2>
+                <oF3>Ranked 4th of the trainee class. A stoic girl whose father trained her in hand to hand combat. She strikes with a perfect penetration angle. She is a solitary type, and solidarity does not come to her easily. She is ultimately revealed to be the Female Titan, discovered by Armin when they attempt to infiltrate the city. After being defeated by Eren in his Titan form, Annie encases her body in a crystal, that envelops her entire body summoned with her Titan powers. Coming from the same town as Reiner and Bertolt, it was also implied that in spite of her stoic nature, she was close friends with Mina Carolina.</oF3>
+                <oF4>Ranked 6th of the trainee class. Extremely pessimistic about the war with the Titans. He ends up leading the people on the supply mission for gas. Jean shows feelings for Mikasa Ackerman and is jealous of Eren and his relationship with her. He is highly efficient in using Vertical Maneuvering Gear, as well as asserting his situation at any given time. However, Jean tends to be hotheaded and far too quick to unsheathe his sword, being also prone to speaking his mind and sparking conflict. He wanted to join the Military Police as a chance to live safely within Wall Sina, but the death of his close friend, Marco left an impact that inspired him to join the Survery Corps instead.</oF4>
+                <oF5>Ranked 7th of the trainee class. From Jinae District. He wanted to join the Military Police due to his desire to work for the King, but was killed during the battle of Trost. Marco was close friends with Armin and Jean.</oF5>
+                <oF6>Ranked 8th of the trainee class. From Ragako District of Wall Rosé. He is shown to have low intelligence, but is outgoing and upbeat. He aimed to apply to the Survey Corps because he was motivated by Eren, but reconsidered it briefly when Annie mentioned she planned to join the Military Police. In the end, he joins the Survey Corps.</oF6>
+                <oF7>Ranked 9th of the trainee class who was nicknamed "Potato Girl" when she was caught eating a boiled potato during a drill. She is good at working the Vertical Maneuvering Gear unconventionally. A hunter from the mountain Daupa District, she joined after getting into an argument with her father when he told her they might have to give up their traditional lifestyle of hunting in favor of farming to support the large number of refugees moving to the area after the fall of Wall Maria. She is also an expert with a bow and arrow, revealed when she uses it to take down a three meter Titan single-handedly while defending a child.</oF7>
+                <oF8>
+                    Ranked 10th in the trainee class (due to Ymir holding back during the assessment) and later was put into the 41st squad during the invasion of Trost in the year 850. A kind and beautiful girl who is able to show great care for others, she has been described as a "goddess". However, she later develops a fear of facing the Titans and spends much of her time around Ymir.
+                    Krista Lenz is actually a pseudonym she started using after she was expelled from her family due to a dispute about her being the illegitimate child of the Head of the Reiss Family, and later joined the 104th Corps using her assumed name. Her real name is Historia Reiss and is of noble blood lineage. Her family holds the secret behind the Titans' true origin and nature and it is also suspected that they are also aware of Titans living behind the walls in human forms. As such, she is important to the plans of Reiner and Bertolt, and Ymir assists them in capturing her despite her efforts to rescue both Ymir and Eren.
+                </oF8>
+                <oF9>
+                    A member of the 104th graduating class and a close friend to Krista, to whom she holds romantic feelings. Like Eren, she has the ability to transform at will into a Titan. Her Titan form is only 7-meters tall, but she is easily the most nimble of the Titans, taking down several that are larger than her using only her speed, claws, and teeth. She is ultimately defeated at Castle Utgard and seriously injured, and is captured alongside Eren by the Colossus Titan and the Armored Titan after their identities are all revealed. Ymir admits that she has become human and enjoys doing so because of Krista, as well as revealing that she existed as a Titan outside Wall Maria for over 60 years. During this time, she ate one of Reiner's and Bertolt's close friends that they made while infiltrating humanity. Initially resisting against Reiner and Bertolt's efforts to capture her and Eren, Ymir later decides to assist them after they assure her that they can protect Krista as well. However, she soon abandons both Reiner and Berthold to the other titans and instead choosing to follow Connie when he saves Krista, making him realize that Ymir is only serious when she needs to protect the one she loves. She then realizes the reason Reiner and the others were interested in kidnapping Eren. Before returning to assist them, Ymir tells Krista to leave with the other Survey Corps.
+                </oF9>
+                <oF10>A blond boy from the District of Trost who aspires to join the Military Police Brigade upon graduating from the Training Corps but then changes his mind to pursue the Survey Corps after being swayed by Eren's speech on graduation day. After graduation, he is assigned to the Fixed Artillery Maintenance - Group 4 and had earlier been in the same Training Corps team with Eren. He is with the maintenance group working atop Trost's frontal walls, along with Eren, Connie, Sasha, Samuel, and Mina when the Colossus Titan appears causing the invasion of Trost in the year 850. Following the invasion he is assigned to the 34th squad and while they are going to support the rear vanguard, is attacked and killed by an Abnormal Titan during the first battle at Trost.</oF10>
+                <oF11>A black haired girl with two pigtails from the District of Trost. After graduation she begins aiming to join the Survey Corps after being swayed by Eren's graduation speech and is assigned to the Fixed Artillery Maintenance - Group 4. She is a part of the group working maintenance atop Trost's frontal Walls when the Colossus Titan appears and causes the invasion of Trost in the year 850. Following the invasion, she is assigned to the 34th squad and while they are going to support the rear vanguard, a Titan pulls her Maneuvering Gear's zipline which throws her into a corner where she was knocked unconscious. She is then subsequently killed and eaten by the same Titan.</oF11>
+                <oF12>One of the graduates from the 104th Training Corps. He is a part of the 34th squad sent to support the rear vanguard during the invasion of Trost. He is killed after the squad is ambushed by a group of Titans.</oF12>
+                <oF13>One of the graduates from the 104th Training Corps. He is a part of the 34th squad sent to support the rear vanguard during the invasion of Trost. He is killed after the squad is ambushed by a group of Titans.</oF13>
+                <oF14>A black haired boy who is assigned to the Fixed Artillery Maintenance - Group 4. He is with the group working atop Trost's frontal walls when the Colossus Titan appears and causes the invasion of Trost in the year 850. When the Titan attacks, he is one of the people knocked off the wall while in an unconscious state but is saved from the fatal plummet by Sasha.</oF14>
+                <oF15>One of the graduates from the 104th Training Corps and usually has a calm demeanor and chides the tension between Jean and Eren. He has been in a relationship with Hannah ever since being a Corps trainee and would sometimes bicker with her about trivial matters. Eren refers to them as the "idiot husband and wife". During the invasion of Trost, he is killed by a Titan by losing the lower half of his body. Hannah frantically tries to resuscitate him to no avail.</oF15>
+                <oF16>One of the graduates from the 104th Training Corps. She is in a relationship with Franz ever since being a Corps trainee and would sometimes bicker with him about trivial matters. Eren refers to them as the "idiot husband and wife". During the invasion of Trost she frantically tries to resuscitate Franz after he is killed by a Titan, not wanting to accept his death</oF16>
+                <oF17>One of the graduates from the 104th Training Corps. During the invasion of Trost in the year 850, he is part of the squad including Jean and Mikasa whose Maneuvering Gears start to run out of propulsion fuel. As his fuel finally depletes he becomes surrounded by a group of Titans and is killed. Jean, who is in charge of the squad, capitalizes on the opportunity and uses him as bait to distract the Titans while the rest of the squad make their way back to the Headquarters to resupply.</oF17>
+                <oF18>One of the graduates from the 104th Training Corps. He seems to have developed a huge fear of the Titans after seeing people being killed and eaten by them during the invasion of Trost in the year 850, which he confides to his friend Marco, and was planning on escaping but decides to stay after listening to the commander's speech. He is from the same group originally from the mountains of Krista and Ymir. In the anime, he develops an intense fear after Trost is breached and starts vomiting due to panic.</oF18>
+            </onefourth>
+					
+            <mpb>
+                <cm>Crest_M.png</cm>
+                <mp0>The Military Police Brigade is composed of elite soldiers assigned to protect the king and enforce law at the capital, which is located inside Wall Sina. Every year, the ten best ranked students from the Trainee Class are invited to join them (according to the conversation between Hitch and Boris, there are other illicit ways to get in such as fraternization and favoritism, etc.). In theory, the Military Police are the most skilled soldiers within the Military but in practice, they have become a lazy and corrupt group that takes advantage of the powers that's been granted to them. The middle classes of Wall Sina are only slightly aware of their corruption which the Military Police discreetly do their illegal activities but the lower labor workers and refugees do know a lot more and hold simmering hostility against them because they pilfer taxes and mismanages the lands. Despite being seen as an incompetent organization, most trainees still dream of joining the Military Police because it gives them a chance to live within the safety of Wall Sina. Unlike the Survey Corps and Garrison, the Military Police lack experience in fighting against Titans. This was demonstrated when most of them were afraid and utterly clueless on what to do when the Female Titan appeared and went on a rampage in Wall Sina. And when the King ordered the Military Police to assist the Survey Corps in rescuing Eren, most of them were easily killed by the Titans even before the rescue operation began in earnest.</mp0>
+                <mp1>Commander of the Military Police Brigade. During Eren's tribunal, Nile wanted Eren to be handed to the Military Police Brigade and executed, believing his presence may cause a civil war but Supreme Commander Darius gave him to Commander Erwin and the Survey Corps. When the Female Titan suddenly appeared within Wall Sina, Nile angrily demands an explanation from Erwin, suspecting he is planning a coup. Bur after learning about Erwin's plans, he decides to help by ordering the Military Police to assist the Survey Corps in capturing the Female Titan.</mp1>
+                <mp2>A member of Military Police who joined for honorable reasons. Marlowe is aware of the corruption within the Military Police and has lengthy plans to reform the organization when he becomes the new Commander. Annie respect his idealism since he reminds her of Eren. Despite his noble goals, he lacks the will and strength to fight corruption when he was unable to stop two corrupt superiors from selling guns to black marketers.</mp2>
+                <mp3>A member of Military Police who joined to benefit from the corruption within the organization. A sarcastic hedonist, she is rather lazy and tends to mock her colleagues. Hitch is jealous of Annie which Boris suspects given her attitude. Unlike Annie, who was able to join the Military Police due to being the top ten of her class, Hitch only got in the Military Police by having an improper relationship with a superior. Despite her attitude, Hitch also cares about her colleagues when she was able to convinced two corrupt superiors to not arrest and let Marlowe go after the latter tried to stop them for selling guns to black marketers.</mp3>
+                <mp4>One of the nicer members of Military Police who is kind to Annie. Boris respects Annie since she fought during the Battle of Trost, therefore she is the only member in the squad who has a combat experience and had an actual encounter with Titans. While he is aware of the corruption within the Military Police, he chooses to accept it's part of the system. When Marlowe declares his ambition to reform the system by rising through the top, he unenthusiastically wishes him good luck.</mp4>
+            </mpb>
+            	
+            <gar>
+                <cg>Crest_G.png</cg>
+                <gar0>The Garrison are the soldiers that protect the towns and reinforce the walls. They are the first line of defense against the Titans maintaining a defensive stance. They are by far the largest force in the military due to the small number of members in the Military Police Brigade and the high death rate of the Survey Corps. Before the fall of Wall Maria, the Garrison were lazy, undisciplined and at times unreliable, only slightly better than the Military Police Brigade. After the fall of Wall Maria, they've become innovative, tactical, diligent and more reliable. They and the Survey Corps are currently the most reliable military branches.</gar0>
+                <gar1>A Garrison soldier who saves Eren and Mikasa during the prologue, who later goes on to become a Garrison commander. He owes and seeks to repay a debt to the Yeager Family for saving his own wife and family from a deadly disease. Hannes assisted Mikasa and the other Survey Corps in rescuing Eren from Reiner and Berthold. He would later die fighting the Titan that ate Carla Yeager, which leaves a profound effect on both Eren and Mikasa.</gar1>
+                <gar2>One of the soldiers stationed in the District of Shiganshina before the fall of the Wall Maria. He has a rather large built physique with a sleek combed back hairstyle. At the start of the series he along with Hannes, while drunk had playfully chided Eren about their relaxed complacency behind the Walls. He was with the Cannon Artillery group providing ground level defence of the Shiganshina Gate for evacuation into the lands of the Wall Maria. It was here that he and his group first encountered the Armored Titan, and being unable to stop its charge, fled in fear with his fellow soldiers.</gar2>
+                <gar3>Highest Ranked Administrator of the Southern Region Military. While mostly seen as an eccentric, drunken fool, Pixis is an intelligent man who cares about his soldiers and the people they protect. Upon learning about the breach at Trost, he and his men immediately heads there and manages to stop Commander Weilman from shooting Eren after he is revealed to be able to transform into a Titan. Seeing Eren's Titan powers might help seal the breach at Trost, he manages to rally his soldiers who were earlier on the verge of deserting to protect Eren during his mission.</gar3>
+                <gar4>Highest rank in all the elite soldiers. He is the commander who leads the mission to retake Trost. Ho</gar4>
+                <gar5>Garrison Chief of Staff. In the anime, he was one of Dot Pixis' escorts on his visit to Lord Bart's residence</gar5>
+                <gar6>In the anime, she was one of Dot Pixis' escorts on his visit to Lord Bart's residence</gar6>
+                <gar7>The Commander of the Garrison deployed at the District of Trost. He has a largely unshaven face with a stern appearance. In the anime, when Trost is breached in the year 850, he leaves a group of Corps trainees to defend the fuel storage unit while he and his subordinates flee to the safety of the inner Wall Rosé.</gar7>
+                <gar8>The squad leader of the 1st Division Elite Force in charge of protecting Eren during their mission to reclaim the Trost District. She is the sole survivor of the division. Rico has short grey/blonde hair, glasses, and wears the Stationary Guard uniform. Originally skeptical of Eren and his credibility, she eventually comes to acknowledge him as a useful ally but still regards him as a threat, testifying against him at his trial. Despite her stoic nature, she appears to care greatly about her comrades, frequently reminding Eren that the people risking their lives for him have families and personalities, and that she doesn't wish for them to "die in vain." She becomes emotional when the mission is successful, as she is glad that her squad's dying efforts were not wasted.</gar8>
+            </gar>
+					
+            <recon>
+                <cr>Crest_R.png</cr>
+                <sc>
+                    <rc0>The Survey Corps is composed of expeditionary soldiers that fight the Titans in their own territory outside of the walls. Their main goal is to discover more about the origins and source of the Titans, their motives, and weaknesses; ultimately how to fight and defeat them. They are also an integral component in the military's campaign to recapture Wall Maria.</rc0>
+                    <rc1>Commander of the Survey Corps, who led the last mission before the fall of Wall Maria. After realizing that a traitor is hidden among the military ranks, he leads the 57th expedition with the secret objective of exposing and capturing it, hiding its true purpose from all the cadets and even from his most trusted subordinates. After Eren is kidnapped by Bertolt and Reiner, he leads a team to rescue him, having his right arm eaten by a Titan in the occasion. Aside from being a cunning strategist, Erwin is also a skilled soldier, able to fell a Titan even after losing his arm.</rc1>
+                    <rc2>A scientist studying the Titans, showing no real fear in them and intense interest in Eren's new physiology as a Titan. Considered weird by the rest of her comrades, only a few tolerate her obsession with Titans. In the past, she used to have a strong hatred against Titans until the death of her comrade Ilse convinced her to see the Titans in a different light. Hange is not only responsible for the research the Survey Corps have on the Titans but also the special weapons they use, such as a barrel that fires multiple grappling hooks to capture Titans alive.</rc2>
+                    <rc3>Survey Corps squad leader. He has a peculiar habit of snorting and sniffing people when he meets them for the first time. Since he does this, it isn't surprising that his sense of smell is also incredibly sharp, being able to detect faint aromas as well as the scents of Titans making his ability useful for tracking. His strength is second to Levi among the Survey Corps squad leaders. When the Wall Rosé is breached by the Titans he used himself as a decoy to distract the Titans and allow his fellow soldiers to escape by single handedly engaging nine Titans simultaneously in battle. Although being severely injured, he manages to defeat five of the Titans, before he is approached by the Ape Titan, who strips him of his Vertical Maneuvering Gear. Immobilized and at a disadvantage, he is then killed by the remaining Titans.</rc3>
+                    <rc4>He was a member of the Survey Corps and was the first person killed by a Titan at the start of the series. When the Survey Corps squad returns to the District of Shiganshina, his mother starts asking for him, and the Squad leader, gives her all that remained of him- his right arm. In the manga his name is Brown, although it is changed to Moses in the anime.</rc4>
+                    <rc5>Ilse is a former member of the Survey Corps who died on duty. Before she died, she took detailed notes of her experiences outside the Walls, including her encounter with a Titan who seemed to have known who Ymir was and revered the youth, mistaking Ilse for her, before realizing his mistake and killing her. Her story is recounted in the special chapter and OVA, "Ilse's Notebook"</rc5>
+                    <rc6>Member of the Survey Corps tasked with breeding the horses used by them, he is killed by the Female Titan in the 57th expedition.</rc6>
+                </sc>
+						
+                <specops>
+                    <sc0>The Survey Corps Special Operations Squad is a squad of soldiers hand-picked by Levi to protect Eren.</sc0>
+                    <sc1>He is known as humanity's most powerful soldier and head of an elite squad in the Survey Corps. He is a clean-freak. While it is said that he is blunt and unapproachable, it is noted that he has a strong respect for authority, structure and discipline. He also cares about his underlings and is affected by their deaths, particularly Petra's. The sidestory Attack on Titan: A Choice With No Regrets focuses on Levi's origins, revealing that he was part of a band of thieves using the Vertical Maneuvering Equipment to commit crimes before he is scouted by Erwin to join the army.</sc1>
+                    <sc2>Deputy leader of the Survey Corps Special Ops. He has a calm demeanor. Levi seems to trust him to the point of placing him as a temporary leader of the Squad following the capture of the Female Titan in the Forest of Giant Trees.</sc2>
+                    <sc3>Bossard is a soldier with a high Titan kill record of 46 kills, 39 of which were performed on his own, and is very boastful of this fact. He is shown to be arrogant and tries to emulate Levi's appearance with his haircut and clothes. A running gag about him is whenever he talks loudly on his horse, he would accidentally bite his tongue.</sc3>
+                    <sc4>She is a skilled and experienced warrior and had a high kill record of Titan kills (58 Titan killed, 48 in team and 10 in solo), being the highest known in the series so far. She seems to have feelings for her commander, Levi.</sc4>
+                    <sc5>Günther is another soldier with a high Titan kill record, with 47 kills, 7 solo. On the 57th expedition to the lands outside the wall, Günther dies alongside Petra, Eld, and Oluo, while protecting Eren from the Female Titan, for which Eren is deeply regretful.</sc5>
+                </specops>
+            </recon>
+					
+            <military>
+                <m1>Darius is the supreme commander of the army, and all members of the Military Police Brigade, the Garrison and the Survey Corps respond to him. He first appears conducting the trial what they should do with Eren after it is revealed that he can transform into a Titan.</m1>
+                <m2>The instructor who was in charge of the training of the 104th Corp recruits. He has a cleanly shaven face and head except for a small patch of beard beneath his chin. He has a tendency to display the harsh characteristics of a drill instructor, by yelling and antagonizing new recruits in order to learn and teach them of their own strengths and weaknesses. He seems to be acquainted with Eren's father, Grisha Yeager. Before the fall of the Wall Maria in the year 845, he had served as the Commander of the Survey Corps, which at the time was struggling in vain to find a secure spot to establish a base beyond the Walls. He had hair at the time.</m2>
+            </military>
+					
+            <otherChars>
+                <oc1>Father of Eren and foster father of Mikasa. He is a renowned doctor who was well respected in the District of Shiganshina after he saved the village from a mysterious viral epidemic by developing vaccines. He also provides a medical house call service to the people of Shiganshina and to various towns in addition to having a network of contacts within the Corps of the Shiganshina district. In the basement of the Yeager family house he hides a secret which he refers to as the "truth" and upon meeting Eren after the fall of the Wall Maria in the year 845, injects him with a series of chemicals and amnesiacs and entrusts him with the key to the "truth", before disappearing.</oc1>
+                <oc2>Mother of Eren and foster mother of Mikasa, although she loved them both the same. She was in opposition to Eren's decision to join the Survey Corps and tried to get Mikasa to change his mind. At the start of the series, she becomes trapped under the Yeager family home from debris of Wall Maria after it was breached by the Colossus Titan in the year 845. Eren and Mikasa had tried to save her, although her lower body was already crushed and she entrusted them to Hannes to save. As they flee, Eren looked on as she is picked up by a nearby Titan, killed, and eaten.</oc2>
+                <oc3>Original anime character. He is a Noble in the District of Marquis and friend of Pixis, who challenges him to leisurely games of chess. In the anime, as Pixis makes to leave upon learning of the invasion of Trost in the year 850, he tries to prevent him from going to the battlefield and instead have Pixis and his men stay and protect him and his property, viewing the lowly commoners being attacked as trash.</oc3>
+                <oc4>Childhood friend of Bertolt Hoover and Reiner Braun. He was eaten by Ymir when she was still a feral Titan.</oc4>
+            </otherChars>
+					
+            <titans>
+                <t0>The Titans are the primary antagonists of the series. They are large creatures closely resembling male humans with various deformities such as over- or under-sized heads and limbs, resulting in unnatural proportions. They also possess more teeth than normal humans, due to an extremely large mouth. In addition, they posses varying levels of intelligence, and for the vast majority, can only communicate through primitive grunts and screams. They can range from 3–15 meters tall, with some exceptions (ranging up to 60 meters). Despite their enormous strength and toughness, Titans' bodies are unnaturally light for their size. The Titans appear to have no objectives other than killing and consuming humans, which they do only by instinct, as they do not seem interested in attacking other animals. They survive on sunlight and do not need to eat or drink to survive - they actually lack any digestive organs, forcing them to occasionally regurgitate consumed prey. The Titans possess no visible reproductive organs, thus it is unknown how they keep increasing their numbers. Dead Titans' corpses decay at an extremely fast pace. They have hard skin and regenerative abilities, and can only be killed by causing a deep incision on the back of the neck. This weakness led to the development of the Vertical Maneuvering Gear, allowing humans to navigate quickly in a three dimensional space to access the Titans' weak point. The creatures are at numerous points mentioned to have exceptionally high body temperature. As a result, their bodies emit steam when regenerating, decaying, or under heavy exertion; the Colossus Titan's body emits steam constantly. Some humans, such as protagonist Eren Yeager, have the unique ability to summon and control a Titan body. The transformation's trigger is best understood as being injured enough to draw blood (usually a self-inflicted bite to the hand) while having a clear, specific goal in mind. While in this form, the human's normal body rests in the weak point at the base of the neck, connected via masses of muscular tissue, indicating a connection between the sentient and feral Titans. This connection is confirmed when it was discovered that the feral Titans originated from ordinary humans who were encased in a Titan's body, just like the sentient ones, but their bodies were absorbed by it, except for the spinal cord which becomes its weak point. Certain Titans are noted to be Abnormal, for displaying an erratic behavior apart from the usual Titans who just run after humans when they spot one, making them more dangerous to deal with. Later it is revealed that feral Titans can be controlled by some kind of rare power only seen on few sentient Titans and so far only Eren and the Ape Titan are confirmed to have this ability.</t0>
+                <t1>The largest Titan ever encountered, having first appeared in the Year 845 outside the District of Shiganshina. It is approximately 60 meters tall with a physical appearance resembling a humanoid being without any skin, exposing muscles and connective tissue. In addition, it has not shown any interest in consuming humans. It appears suddenly and without warning in a flash of lightning, and disappears in a similar manner in large clouds of steam, which constantly pours from most parts of its body. It possesses the ability to release this steam at high pressure to defend the weak point at the base of its neck. Possessing a physical mass far larger than any other known Titan, it was easily able to kick down the Gate into the District of Shiganshina and thus is partially responsible for the breach of Wall Maria. It displays cognitive recognition when it appears before the District of Trost in the year 850, as after kicking down the gate into the district, it destroys the cannon artillery atop the wall so that the invading Titans would meet less resistance. Later it is revealed that the Colossus Titan is Bertolt Hoover's Titan transformation.</t1>
+                <t2>The Abnormal Titan that destroyed the inner gate of Shiganshina, allowing the other Titans to breach Wall Maria and force humans into Wall Rosé. It seems much more athletic than the other Titans, as it can sprint and tackle, using this attack to destroy the gate. Its entire body is covered in protective armor plating except for some weak points at its joints, which were used by Mikasa to damage it during its fight with Eren. Later, it is revealed that the Armored Titan is Reiner Braun, who defeated Eren with Bertolt's help before the duo escape, taking the unconscious Eren and Ymir with them.</t2>
+                <t3>A 14-meter tall Titan with a previously unheard of feminine body structure, encountered during the expedition to Wall Maria. She possesses obvious intelligence, extensive knowledge of hand-to-hand combat, and the ability to selectively regenerate or harden parts of her body during battle. Leading numerous other Abnormal Titans, she attacks the expedition forces in search of Eren and attempts to kidnap him. She slaughters the forces sent to fight her, with only Levi, Mikasa, and Armin surviving direct contact with her. Later, Armin is able to lead her into a trap and confirm that her true identity is Annie Leonhardt.</t3>
+                <t4>This 17-meter tall Titan first appears within Wall Rosé, and has more of an ape-like appearance than the other Titans, with a body covered in hair, an ape-like face, and incredibly long and thin arms. He is also highly intelligent compared to the other Titans, and even has the ability to speak eloquently in the human language, using it to command other Titans. He also has the unique ability to function at night, when most Titans become docile. He expresses interest in the Vertical Maneuvering Gear, daintily stripping Mike of his gear so he may study it before allowing his fellow Titans to devour the soldier. The Ape Titan also uses his long ape-like arms to easily scale the Walls as if rock climbing, and can hurl large boulders with high accuracy. Though uninterested in eating people itself, the Ape Titan is indifferent towards the well-being of mankind and allows human consumption. According to Ymir, there must be some kind of connection between Reiner, Bertoldt and the Ape Titan as she claims that they showed no surprise when it first appeared before them.</t4>
+                <t5>This Titan is discovered by Mikasa to be immured within Wall Sina. It appears to have no skin and is of similar size to the Colossus Titan, as a large chunk of the wall is removed but Mikasa can only see a portion of its face. Armin suggests that the walls were constructed using the Titan's hardening powers.</t5>
+                <t6>A 4-meter Titan and a 7-meter Titan captured by Eren for Hange's studies. With them, she discovers that Titans require sunlight to operate, as Sonny seems to become lethargic without sunlight, but Bean appears to still be active to some extent. Both are killed by Annie. In the anime, Hange reveals they were named after Sawney Bean, the leader of a clan of cannibals who hunted and ate their victims before the authorities found and exterminated them.</t6>
+                <t7>This Titan is the one that Ilse Langnar encountered in the woods. In her records, she notes that the Titan spoke and said "Ymir Person" and "Miss Ymir", until the Titan realized she was not Ymir and ate her.</t7>
+            </titans>
+        </characters>
+        		
+        <equipment>
+            <dmg_1>3dmg_1.gif</dmg_1> 
+            <dmg_2>3dmg_2.gif</dmg_2> 
+            <dmg_3>3dmg_3.gif</dmg_3>
+            <threedmg>The Three Dimensional Maneuver Gear is a set of gear developed by humans that allows great mobility when facing the Titans in combat. The gear allow the user to fight in a 3D space as oppose to a 2D one. The gear itself takes the form of a body harness that encompasses much of the body below the neck. Though using it will allow a skilled user great mobility, it carries a large risk of overtaxing the user's muscles, thus special physical conditioning is required to use this gear. Some tools involved in the apparatus include: hand grip, piston-shot grapple-hooks, gas powered mechanism, iron wire propeller with plug in blades.</threedmg>
+            <usage>The simplest move possible with the 3DMG is simply aiming and firing the grapple hooks at an object and then activating the gas mechanism to reel oneself toward said object. They can then disconnect the hook and continue moving forward. Usually however, soldiers must be able to move around in order to navigate in general. Therefore, they tend to use their momentum in order to swing around targets.</usage>
+            <origin>The circumstances regarding the creation of the 3DMG are detailed in the prequel novel Before The Fall. 3DMG was invented by Angel Altonen, a first-class weapons craftsman who worked closely with the Survey Corps.</origin>
+            <mechanic>The Body of the Device - Steel wire is stored inside the body. There are two axles, which revolve independently. Operating Device - The functioning part of the operating device is a black box, which the technical department manages and improves in secrecy. Body of the Compressed Gas Cylinder - Gas is compressed into the cylinder and injected. Fan Section - Gas is blown directly into the fan to make it rotate. The pressure of the gas is regulated to manipulate the output.</mechanic>
+            <training>Three-dimensional maneuver device training is a rigorous process that allows humans, which are limited to two-dimensional movements, to adapt to movement in the third dimension. Great physical strength, particularly in the legs, coupled with spatial recognition abilites, as well as the mental strength to not waver in the midst of a panic, are crucial qualities. One of the first things done after enlisting in training is the 3D Maneuver Gear aptitude evaluation. Those unable to remain upright are dismissed. Three years of training is needed before officially becoming a soldier. Many run away or are driven out before graduating. The training is so intense that some people actually die during the process.</training>
+        </equipment>
+    </about>
+		
+    <s_0>banner/img_here</s_0>
+    <s_1>link_here </s_1>   
+    <s_2>Image_here_soon.jpg</s_2>        
+		
+    <season>
+        <number>Season 1,
+            <episode>Episode 1,
+                <title>"To You, After 2,000 Years: The Fall of Shiganshina, Part 1"
+                    <aired>April 6,2013,
+                        <summary>
+                            For over a century, humans have been living in settlements surrounded by gigantic walls, which prevent the Titans, giant humanoid creatures who eat humans, from entering. Young Eren Yeager wishes to see the outside world by joining the Recon Corps, as he likens living in the cities to livestock. Despite this, his foster sister Mikasa Ackerman and their mother Carla are against him in joining the Corps. Even after seeing the Recon Corps returning home with large casualties, Eren expresses his interest to join which impresses his father Dr. Grisha Yeager. After Eren and Mikasa save their friend Armin Arlert from bullies due to his views that the walls will not protect them forever, a Colossus Titan much taller than the walls suddenly appears and kicks down the gate into the District of Shiganshina, allowing smaller Titans to enter. As the city erupts into mass panic, Eren and Mikasa head to their home in a desperate attempt to save their mother who becomes trapped under their collapsed house by the debris falling from the wall. Despite Carla begging her children to leave her and save themselves, they refuse until City Guard Hannes arrives and takes the children away against Eren's wishes. As Hannes carries them away, Eren, picked up from behind the scenes, watches in horror as a Titan kills and eats their mother. 
+                        </summary>
+                    </aired>
+                </title>
+            </episode>
+        </number>
+    </season>
+    
+    <season_1>
+        <number_1>Season 1,
+            <episode_1>Episode 2,
+                <title_1>"That Day: The Fall of Shiganshina, Part 2",
+                    <aired_1>April 13,2013,
+                        <summary_1>
+                            Hannes apologizes to Eren for not saving his mother and admits he was afraid of the Titan and that both he and Mikasa are still weak children. The people of Shiganshina escape to the inner Wall Maria while the soldiers try to hold off the Titans. Fearing the Titans might advance further, the soldiers order to close the gate to Wall Maria despite Hannes' protest that there are still refugees outside. However, an Armored Titan rams into the gate, allowing the Titans to enter the lands of Wall Maria. As a result of the breach, the government orders all survivors from Wall Maria to evacuate into Wall Rosé. Some time later, Eren has a strange dream in which his grieving father forcefully gives him an injection and his key before being woken up by Mikasa. Eren grows disgusted with the people of Wall Rosé as the latter do not like sharing their food with the refugees. During the next year, as a food shortage becomes apparent, the government orders the refugees to work at the farms or fight to reclaim Wall Maria, which results in hundreds of thousands of deaths including Armin's grandfather. Eren vows revenge for what the Titans did and resolves to kill them by joining the Army along with Mikasa and Armin. A year later, Eren, Mikasa, Armin, and many young recruits begin their training. 
+                        </summary_1>
+                    </aired_1>
+                </title_1>
+            </episode_1>
+        </number_1>
+    </season_1>    
+    
+    <season_2>
+        <number_2>Season 1,
+            <episode_2>Episode 3,
+                <title_2>"A Dim Light in the Darkness of Despair: Mankind's Comeback, Part 1",
+                    <aired_2>April 20,2013,
+                        <summary_2>
+                            Drill Instructor Keith Shadis begins inspecting the new recruits by verbally insulting and intimidating the weak ones. When Sasha Brause is caught eating a potato, she is punished to run around the camp. An exhausted Sasha is later taken back to bed by Ymir and Krista Lenz. Eren has a rivalry with Jean Kirstein, whom Eren finds cowardly since Jean wants to join the Military Police simply because their only job is to maintain civil order within the inner city walls. The recruits begin training on the 3-D Maneuver Gear by maintaining their balance while suspended in the air. Eren has trouble balancing his Gear, so he asks Reiner Braun and Bertolt Huber for help. As they give Eren advice, both of them reveal that they came from a town that was not warned of the Titans' attack. Despite surviving, Reiner wants to go back to their hometown. Bertolt, on the other hand, was traumatized by the Titans and wants to join the Military Police to avoid them. The next day, Eren tries the Maneuver Gear again and succeeds for a few seconds before falling once more. Much to everyone's surprise, Keith discovers that Eren's Gear was actually defective, and after equipping another recruit's working Gear, he proves to indeed have the aptitude to use it. The fact that Eren could maintain his balance even for a few seconds with a faulty Gear impresses Keith and the other recruits. Proud of the recruits who succeeded, Keith furthers their training with the Maneuver Gear. 
+                        </summary_2>
+                    </aired_2>
+                </title_2>
+            </episode_2>
+        </number_2>
+    </season_2>
+    
+    <season_3>
+        <number_3>Season 1,
+            <episode_3>Episode 4,
+                <title_3>"Night of the Graduation Ceremony: Mankind's Comeback, Part 2",
+                    <aired_3>April 27,013,
+                        <summary_3>
+                            Five years since Wall Maria fell, the time for the recruits' graduation approaches. While training in hand-to-hand combat with Reiner and Annie Leonhardt, Eren learns that many among his peers are just honing their abilities to earn a place in the Military Police and avoid confronting the Titans at all. Jean claims that confronting the Titans is pointless, as mankind has never won a battle against them. Despite this, Eren remains dead set on joining the Recon Corps. On the day of graduation, Krista, Sasha, Connie Springer, Marco Bott, Jean, Eren, Annie, Bertolt, Reiner, and Mikasa become the top ten recruits of their class. Despite the fact that the top ten are allowed to join the Military Police, Eren joins the Recon Corps as he has always intended, with Armin and Mikasa to watch over him. Later Sasha, Connie, and some of the other recruits follow their example and join the Recon Corps as well, after being inspired by Eren's speech to have mankind freed of the Titans. They are assigned to the District of Trost, one of the cities near Wall Rosé, and are taken by surprise when the Colossus Titan appears before them and breaks through the gate, leaving the city unprotected. Once Eren regains his composure, he takes command and orders a counterattack, climbing back to the top of the wall to have his revenge against the Titan. 
+                        </summary_3>
+                    </aired_3>
+                </title_3>
+            </episode_3>
+        </number_3>
+    </season_3>
+    
+    <season_4>
+        <number_4>Season 1,
+            <episode_4>Episode 5,
+                <title_4>"First Battle: Battle of Trost District, Part 1",
+                    <aired_4>May 4,2013,
+                        <summary_4>
+                            As Eren attacks the Colossus Titan, it destroys the wall's cannons, revealing its intelligence. As Eren prepares to attack its vital point, it vanishes in the steam. The Army scrambles to evacuate the people of Trost and set up defenses before the Titans enter the city. Eren calms Armin and Jean who both start having nervous breakdowns due to the approaching Titans. Mikasa and Eren are assigned by the Army to different squads with Mikasa's squad assigned to help the evacuation while Eren and Armin's squad are to provide backup at the front lines. Despite Mikasa's protest of wanting to stay and protect Eren, he convinces her to do her duty after promising her he will not die. With the Titans now in the city, Eren recalls his lessons that to kill a Titan, they must strike the nape of their necks. As Eren's 34th squad attack, one by one his comrades are killed or eaten by the Titans with Eren himself losing his left leg. Armin, paralyzed with fear upon seeing his comrades' fate, is picked up by a Titan and almost swallowed. As Eren recalls his past of him and Armin wishing to see the world outside the walls, he manages to drag and toss Armin out of the Titan's mouth before he is completely swallowed. Armin tries to help Eren, but the Titan closes its jaw and eats Eren, much to his horror.
+                        </summary_4>
+                    </aired_4>
+                </title_4>
+            </episode_4>
+        </number_4>
+    </season_4>
+    
+    <season_5>
+        <number_5>Season 1,
+            <episode_5>Episode 6,
+                <title_5>"The World She Saw: Battle of Trost District, Part 2",
+                    <aired_5>May 11,2013,
+                        <summary_5>
+                            Armin awakens to find himself surrounded by Connie, Ymir, and Krista's squad. When Armin breaks down into tears after Connie asks what happened to his squad, Ymir correctly deduces that they have all died. As Armin heads back to the rear guard, he blames himself for being weak in not saving Eren. Meanwhile, a greedy merchant tries to force his cargo into the city's exit gate and refuses to allow the refugees to go first. As the crowd grows impatient, a lone Titan starts approaching but is killed by Mikasa at the last second. When she realizes the merchant is the cause of the hold-up at the gate, she threatens him to move his cargo for the refugees. As she is thanked by a mother and daughter, Mikasa starts to reminiscence her past. In the year 844, a year before Wall Maria fell, Mikasa and her Asian mother were targeted by slave traders. The slavers kill her father and accidentally kill her mother. As Dr. Grisha and Eren discover Mikasa's parents' bodies at her home, Grisha orders Eren to return home. Instead, Eren tracks down the slavers to a nearby hut and kills two of them in an attempt to save Mikasa. However, the third slaver shows up and strangles Eren, who tells Mikasa to kill the man if she wants to live, which she does after obtaining resolve. Eventually, the children are found by Grisha and the police. As Mikasa laments that she has nowhere left to go home, she is invited by the Yeagers to live with them and Eren gives Mikasa his red scarf. Back in the present, Mikasa slays more Titans and goes to help the other squads evacuate. 
+                        </summary_5>
+                    </aired_5>
+                </title_5>
+            </episode_5>
+        </number_5>
+    </season_5>
+    
+    <season_6>
+        <number_6>Season 1,
+            <episode_6>Episode 7,
+                <title_6>"The Tiny Blade: Battle of Trost District, Part 3",
+                    <aired_6>May 18,2013,
+                        <summary_6>
+                            The surviving squads, unable to climb out to the inner walls due to their maneuvering gears being low on gas, lose their fighting morale while the nearby supply depot becomes overrun by Titans. Mikasa learns from Armin that the 34th squad along with Eren died. Seemingly unfazed, Mikasa rallies the others to reclaim the supply depot and becoming inspired, they join her in the attack. Mikasa ends up running out of fuel and falls into an alleyway, leading Jean to assume command. However, he loses his nerve when he watches some of his comrades being eaten by the Titans. As a Titan approaches Mikasa, she at first accepts her fate but instinctively starts fighting back after remembering Eren's words of perseverance. As she prepares to attack with a small blade, another Titan appears behind her, and brutally kills the Titan in front of her much to her confusion. Armin and Connie show up, and they are all surprised to see not only the Rogue Titan fighting other Titans, but that it also shows knowledge of their weak points using hand-to-hand combat techniques while completely ignoring the humans. Armin gives Mikasa his gas tanks and blades so that she can go support everyone at the supply depot. Mikasa, however, refuses to leave him behind and ponders on the Rogue Titan's strange behavior. 
+                        </summary_6>
+                    </aired_6>
+                </title_6>
+            </episode_6>
+        </number_6>
+    </season_6>
+    
+    <season_7>
+        <number_7>Season 1,
+            <episode_7>Episode 8,
+                <title_7>"I Can Hear a Heartbeat: Battle of Trost District, Part 4"
+                    <aired_7>May 25,2013
+                        <summary_7>
+                            With the supply depot area swarming with Titans, Armin has the idea of using the Rogue Titan to defeat them. Connie and Mikasa agree with his plan and defeat the Titans attacking it, before rushing there. Meanwhile, Jean and the others reach the supply depot despite suffering more casualties on the way, with Armin, Connie, and Mikasa arriving soon after. Armin's plan works, but while the Rogue Titan fights the enemies outside, seven smaller Titans lurk around the fuel storage area. With their gears out of fuel, Armin comes with another plan. The survivors draw the Titans' attention to an elevator and shoot them in the eyes to blind them, while seven of them will jump from the ceiling to finish them off. Connie and Sasha fail to kill their targets but are saved by Mikasa and Annie. Having successfully replenished their fuel, the soldiers prepare to retreat, but they see the Rogue Titan defeating all of the other Titans and falling down, and much to their shock, watch Eren emerging from its body. Mikasa reaches Eren and cries upon confirming that he is alive, while Armin notices that somehow his severed limbs have recovered as well. 
+                        </summary_7>
+                    </aired_7>
+                </title_7>
+            </episode_7>
+        </number_7>
+    </season_7>
+    
+    <season_8>
+        <number_8>Season 1,
+            <episode_8>Episode 9,
+                <title_9>"The Left Arm's Trace: Battle of Trost District, Part 5",
+                    <aired_7>June 1,2013,
+                        <summary_8>
+                            The Recon Corps led by Captain Levi and his squad successfully retake a town from the Titans until they are called for an emergency at Trost as the Titans have invaded the city. It is revealed that when Eren was eaten and swallowed by the Titan, he found himself in its stomach along with bodies of its victims, some of whom were still alive. His anger over the Titans caused Eren to burst out of the Titan's stomach by transforming into a Titan himself and going on a rampage against them. When Eren regains his consciousness, to his confusion, he, Armin, and Mikasa are surrounded by the Army who are aiming their weapons at him. It is revealed that after Mikasa and the others saw Eren emerge out of the Rogue Titan, they all agreed to keep it a secret and bring him back inside Wall Rosé. However, Commander Kitz Weilman and his men did see it and have Eren cornered with Armin and Mikasa defending him. Kitz accuses Eren of being a Titan spy and demands to know what he is, but Eren has no idea since he has no memories of becoming a Titan or how his limbs grew back. Hoping to resolve the situation, Eren honestly answers he is human but a fearful Kitz orders the cannons to fire on them. As the three of them try to escape, Eren remembers his lost memories of his father giving him an injection, telling him to reclaim Wall Maria and go to their home's basement with his key. In order to protect Armin and Mikasa from the cannons, Eren partially transforms himself into the Rogue Titan. 
+                        </summary_8>
+                    </aired_7>
+                </title_9>
+            </episode_8>
+        </number_8>
+    </season_8>
+    
+    <season_9>
+        <number_9>Season 1,
+            <episode_9>Episode 10,
+                <title_9>"Answer: Battle of Trost District, Part 6"
+                    <aired_9>June 8,2013,
+                        <summary_9>
+                            After partially transforming himself to protect Armin and Mikasa, Eren climbs out from the Titan to talk with Mikasa and Armin regarding the basement in his former house and how he believes that it holds the secret to mankind's preservation and the key to destroying the Titans. Commander Kitz is still afraid and once again orders the cannon to be loaded. Eren comes up with two plans of escape: the first is for him to transform into a Titan and run away on his own, forever criminalizing himself in the eyes of humanity. The second is to have Armin convince to Kitz that Eren is an asset, not a danger. Armin has several flashbacks and comes to the realization that even if he is a coward physically, he can still defend his friends regardless and decides to talk their way out of being executed. Armin tentatively convinces Kitz, only to have him overcome by fear and give the order to fire once more. But the order is halted when Commander Pixis and his men intervene, sparing their lives. In return, Pixis asks Eren if he will transform himself to block the gap in Wall Rosé to prevent further Titan invasions. He agrees, regardless of whether or not he is able to control his Titan form. 
+                        </summary_9>
+                    </aired_9>
+                </title_9>
+            </episode_9>
+        </number_9>
+    </season_9>
+    
+    <season_10>
+        <number_10>Season 1,
+            <episode_10>Episode 11,
+                <title_10>"Icon: Battle of Trost District, Part 7,
+                    <aired_10>June 15,2013,
+                        <summary_10>
+                            As Armin helps Pixis' subordinates coordinate a plan, morale among the troops begin to fade as some of them want to desert and be with their families. Pixis calms everyone by reminding them that if they abandon this chance to finally win against the Titans, they will be subjecting their families to their terror, which convinces the troops to stay. Claiming that Eren is the result of a secret project to turn humans into Titans, Pixis plans to have most of the troops gather at a far corner of Trost to lure most of the Titans away while Eren in Titan form carries the giant boulder to seal the hole. Along with Mikasa, Eren will be guarded during this mission by three of the best elites of the Garrison, Ian Dietrich, Rico Brzenska, and Mitabi Jarnach. As they head toward the giant boulder, Rico reminds Eren that many lives are at stake for the sake of this mission. Finally reaching the boulder, Eren transforms himself into a Titan, but suddenly attacks Mikasa. 
+                        </summary_10>
+                    </aired_10>
+                </title_10>
+            </episode_10>
+        </number_10>
+    </season_10>
+    
+    <season_11>
+        <number_11>Season 1,
+            <episode_11>Episode 12,
+                <title_11>"Wound: Battle of Trost District, Part 8",
+                    <aired_11>June 22,2013,
+                        <summary_11>
+                            Mikasa tries to reason with Titan-Eren, but to no avail. Titan-Eren continues his attack and accidentally incapacitates himself, slumping to the ground. The elites protecting Eren send up a red flare to signal that the plan has failed, much to the dismay of the troops observing from the wall. As Armin heads toward Eren to investigate, the elite squadron argues and eventually agrees to protect Eren over abandoning him, recognizing him as a valuable military asset. During the operation, Jean is separated from Connie and Annie after his Maneuver Gear malfunctions, forcing him to hide from two Titans in a building. Armin reaches the unconscious Titan-Eren, but Mikasa calls to him, warning that he is in a dangerous state. Armin plunges his sword into the side of Titan-Eren's neck, which briefly awakens him. As Armin talks of the outside world and Eren's promise to kill all the Titans, Eren leaves his dreamlike-state and regains consciousness.
+                        </summary_11>
+                    </aired_11>
+                </title_11>
+            </episode_11>
+        </number_11>
+    </season_11>
+    
+    <season_12>
+        <number_12>Season 1,
+            <episode_12>Episode 13,
+                <title_12>"Primal Desires: Battle of Trost District, Part 9",
+                    <aired_12>June 29,2013,
+                        <summary_12>
+                            Jean manages to acquire another Maneuver Gear from a dead soldier and escape thanks to Annie, Connie, and Marco distracting the Titans. With Titan-Eren now fully awake and carrying the boulder towards the gate as planned, Ian orders everyone to distract the Titans away from Eren at all costs, with some of them sacrificing their lives in the process. Eren finally blocks the open gate with the boulder, and a tearful Rico fires a yellow flare to signal that the operation was a success. As Armin tries to pull out Eren from his Titan body, they are surrounded by two Titans but are then saved by the timely arrival of Levi. With the gate finally sealed, the army eliminates all of the Titans remaining in Trost except two which are captured for research. As the army counts their casualties and dead, a shocked Jean finds Marco's dead and half-eaten body, Sasha's group is horrified to find a pile of corpses regurgitated from a Titan, and Annie mourns one of her dead comrades. Meanwhile, Eren is locked up in a cell guarded by the Military Police where he is visited by Levi and Commander Erwin Smith of the Recon Corps. After listening to his story and reasons for wanting the Titans dead, Levi allows Eren to join the Recon Corps under his command but warns if he ever betrays them or goes berserk again, he will personally kill him. 
+                        </summary_12>
+                    </aired_12>
+                </title_12>
+            </episode_12>
+        </number_12>
+    </season_12>
+    
+    <season_13>
+        <number_13>Season 1,
+            <episode_13>Episode 14,
+                <title_13>"Cannot Look Into His Eyes: Prelude to the Counterattack, Part 1",
+                    <aired_13>July 13,2013,
+                        <summary_13>
+                            When word spreads about a Titan siding with humankind, the populace is divided over whether Eren is their savior or their end. Eren is brought to a military tribunal to be judged by the Commander-in-Chief of the military, Darius Zackley, who will decide whether Eren should be given to the Military Police or the Recon Corps, both of whom have their own reasons for wanting him. The Military Police want Eren killed as he is seen by them as a menace, while the Recon Corps want to use him to retake Wall Maria. As both sides get into heated arguments over Eren's Titan powers, one of the merchants siding with the Military Police accuses Mikasa of being a Titan as well, much to Eren's anger. When Eren calls out the Military Police and their supporters for their cowardice, one of them attempts to shoot him, only for Levi to beat Eren down. Despite being brutally beaten, he does not transform into a Titan, which Levi shows to the court that the Recon Corps can control Eren and proposes that he is to be made part of his squad. In the end, Zackley gives Eren to the Recon Corps where Erwin and Hange welcome him. 
+                        </summary_13>
+                    </aired_13>
+                </title_13>
+            </episode_13>
+        </number_13>
+    </season_13>
+    
+    <season_14>
+        <number_14>Season 1,
+            <episode_14>Episode 15,
+                <title_14>"Special Operations Squad: Prelude to the Counterattack, Part 2"
+                    <aired_14>July 20,2013,
+                        <summary_14>
+                            Levi and his Special Op Squad, composed of Petra Ral, Auruo Bossard, Erd Gin, and Günther Schultz, who are all elites chosen by him, bring Eren to the old Recon Corps headquarters where Eren will learn to control his Titan's power under their watch. As Levi orders the castle to be cleaned, Petra assures Eren that despite his rude and harsh demeanor, Levi does care about the people under his command. Meanwhile, Erwin and Mike Zacharius discuss about the new recruits joining the Recon Corps and how they must prove Eren's usefulness to Military Command within a month. While discussing his powers with Levi's Squad, Hange arrives and asks Eren to help her in her experiments with the two Titans they have captured, which she names Sawney and Bean. Hange is revealed to have an obsession with Titans where she treats them like people despite the many times she puts herself in danger. In her talks with Eren, she reveals the Titans need sunlight to survive and despite their size, their bodies are disproportionately light. But the next day, the Recon Corps discovers Sawney and Bean have been killed. As Hange mourns for them, the Recon Corps deduce that the culprit is a soldier who escaped using their Maneuver Gear, which makes Eren wonder who their true enemy is. 
+                        </summary_14>
+                    </aired_14>
+                </title_14>
+            </episode_14>
+        </number_14>
+    </season_14>
+    
+    <season_15>
+        <number_15>Season 1,
+            <episode_15>Episode 16,
+                <title_15>"What to Do Now: Prelude to the Counterattack, Part 3",
+                    <aired_15>July 27,2013,
+                        <summary_15>
+                            As the recruits are investigated over the killings of the Titans Sawney and Bean, Annie, who will be joining the Military Police later, gives advice to Armin and Connie that it is their choice to decide on which branch of the Army they join. The recruits are later greeted by Erwin who tells them the Recon Corps' next expedition within a month is to reclaim Shiganshina and find the secret hidden in Eren's home basement. After telling the recruits of the Recon Corps' fatalities in each expedition, Erwin tells the recruits that they may stay and join them or leave to join the other branches. As many recruits leave, Jean joins the Recon Corps in honor of Marco with others joining him as well including Mikasa, Armin, Sasha, Connie, Ymir, Krista, Reiner, and Bertolt despite their fears. As the Recon Corps prepare themselves for the expedition, Eren is reunited with his friends and learns what happened to the others. Jean questions Eren if he can truly control his Titan powers as they are risking their lives for him. With everything ready, the Recon Corps begin their 57th Expedition beyond the walls.
+                        </summary_15>
+                    </aired_15>
+                </title_15>
+            </episode_15>
+        </number_15>
+    </season_15>
+    
+    <season_16>
+        <number_16>Season 1,
+            <episode_16>Episode 17,
+                <title_16>"Female Titan: 57th Expedition Beyond the Walls, Part 1"
+                    <aired_16>August 3,2013,
+                        <summary_16>
+                            During their expedition, the Recon Corps set up a formation where several scouts spread around the main group where they will report by flare gun if a Titan is nearby so the main group can steer to avoid them. After Armin's squad manages to kill an Abnormal Titan, a Titan with a feminine body, suddenly appears from the right flank at high speed. Much to Armin's shock, the Female Titan's body can withstand their blades and is intelligent enough to kill his seniors easily. The Female Titan captures Armin but after removing his hood and seeing his face, she leaves him alive and continues running. Armin is picked up by Reiner and Jean who reveals that their right flank was wiped out by the Titans, which makes Armin realize it was the Female Titan's work and she is possibly another Titan Shifter like Eren. When the three of them give conflicting sources on where Eren is in the formation, they realize the Female Titan's target is Eren and they must stop her. Despite their failed attempts to attack, she leaves them and heads to where Eren is: the center of the group. 
+                        </summary_16>
+                    </aired_16>
+                </title_16>
+            </episode_16>
+        </number_16>
+    </season_16>
+    
+    <season_17>
+        <number_17>Season 1,
+            <episode_17>Episode 18,
+                <title_17>"Forest of Giant Trees: 57th Expedition Beyond the Walls, Part 2",
+                    <aired_17>August 10,2013,
+                        <summary_17>
+                            Armin, Reiner, and Jean are left stranded after their encounter with the Female Titan leaves them with only one horse, but they are soon saved by Krista who arrives with extra horses. They wait for the order to withdraw, but to their surprise, they discover their operation is continuing albeit heading in a different direction. Meanwhile, news reaches the center group about their right flank being annihilated by the Female Titan as the latter continues to wreak havoc within the formation. Soon, the whole formation reaches the Forest of Giant Trees with only the center row entering it while the rest defend the forest from Titans. Eren realizes something is wrong when his squad has no idea what Erwin's orders are and what Levi is doing. As the Female Titan chases them at their heels, the squad desperately await Levi's command to attack, but Levi instead tells his squad to cover their ears as he fires his flare gun. 
+                        </summary_17>
+                    </aired_17>
+                </title_17>
+            </episode_17>
+        </number_17>
+    </season_17>
+    
+    <season_18>
+        <number_18>Season 1,
+            <episode_18>Episode 19,
+                <title_18>"Bite: 57th Expedition Beyond the Walls, Part 3",
+                    <aired_18>August 17,2013,
+                        <summary_18>
+                            Levi fires a noise round and tells the squad to keep moving forward. With more of the rearguard getting killed by the Female Titan, Eren begs his squad to let him fight but they tell him to trust Levi's decision. As he considers turning himself into his Titan form, Levi tells him to choose to be either a monster or a member of the Recon Corps. Eren starts remembering when Hange, Levi, and his squad had him try to transform into a Titan for experimental purposes but was unable to. During a break when he tried to pick up a teaspoon, Eren suddenly partially transformed, much to the squad's shock. They almost attacked him but Levi ordered them to stand down. Hange deduced that Eren is able to transform into a Titan not by solely injuring himself but also due to his desire to fulfill his goals. The squad apologized to Eren and told him they should trust each other. Remembering this, Eren decides to trust his squad's plan. It is then revealed that Levi's squad is bait to lure the Female Titan into an ambush where Erwin and his men fire hundreds of grappling hooks at the Titan, trapping it. Levi leaves his squad to meet up with Erwin to find out who the Female Titan is. 
+                        </summary_18>
+                    </aired_18>
+                </title_18>
+            </episode_18>
+        </number_18>
+    </season_18>
+    
+    <season_19>
+        <number_19>Season 1,
+            <episode_19>Episode 20,
+                <title_19>"Erwin Smith: 57th Expedition Beyond the Walls, Part 4",
+                    <aired_19>August 24,2013,
+                        <summary_19>
+                            With the Female Titan restrained, Erwin and Levi try to figure out its identity with no success as it is able to harden its skin to prevent them from cutting out the human inside. Jean, Armin, and the rest of Levi's squad realize it was Erwin's plan to use Eren as bait to draw out the mole within the army who joined them after the Walls fell and only told his real plan to those who were part of the Recon Corps before the fall. Meanwhile, the others wonder about what is happening inside the forest, and Levi taunts the Female Titan prompting her to give a loud scream that draws all Titans in the vicinity to her. Despite the Recon Corps' attempt to stop them, the Titans ignore the humans and eat the Female Titan's body in a frenzy, which makes Erwin call off the expedition. However, knowing that there is no confirmation that the mole has also been eaten by the Titans, Erwin orders Levi to regroup with his squad while the mole, disguised as a cloaked Recon Corps member, attacks Levi's squad, killing Günther. 
+                        </summary_19>
+                    </aired_19>
+                </title_19>
+            </episode_19>
+        </number_19>
+    </season_19>
+    
+    <season_20>
+        <number_20>Season 1,
+            <episode_20>Episode 21,
+                <title_20>"Crushing Blow: 57th Expedition Beyond the Walls, Part 5",
+                    <aired_20>August 31,2013,
+                        <summary_20>
+                            Erwin tells Hange that it was a mistake to think all humans who can transform into Titans are like Eren when the Female has unique abilities that are far beyond a novices, while elsewhere the mole transforms into the Female Titan and chases after Levi's squad. Armin theorizes the mole is someone who had seen Eren transform during the invasion of Trost. Eren wants to transform into his Titan form, but the squad tells him to trust in their skills and keep moving forward. Petra, Erd, and Auruo manage to blind the Female Titan and attempt to cut off her arms and kill her. However, the Female Titan manages to quickly regenerate her right eye and kills Erd, Petra, and Auruo. Seeing his comrades dead, a grieving Eren transforms into his Titan form which gets Mikasa and Levi's attention. Believing his comrades and squad's death could have been avoided if he had transformed in the first place, Eren fights the Female Titan in a long battle. The Female Titan defeats Eren by decapitating his head and swallowing Eren. Mikasa attempts to stop the Female Titan but to no avail. She is later joined by Levi who tells her to keep their distance, as the Female Titan is getting tired. 
+                        </summary_20>
+                    </aired_20>
+                </title_20>
+            </episode_20>
+        </number_20>
+    </season_20>
+    
+    <season_21>
+        <number_21>Season 1, 
+            <episode_21>Episode 22,
+                <title_21>"The Defeated: 57th Expedition Beyond the Walls, Part 6",
+                    <aired_21>September 7,2013,
+                        <summary_21>
+                            Levi orders Mikasa to distract the Female Titan in order to get Eren back. Levi launches a successful high-speed attack that debilitates the Female Titan, but Mikasa leaves herself vulnerable when she tries to finish the Female Titan. She's saved by Levi, who breaks his leg in the process. They retreat with Eren's body, leaving the Female Titan badly wounded and slumped against a tree. As the Corps mourn, count their dead, and retrieve the bodies before returning home, Erwin orders that the fallen whose bodies were not retrieved be reported MIA. However, a Corps member, Dieter, against direct orders from Erwin, retrieves his dead friend Ivan's body, which draws the attention of two Titans to the retreating Corps. Mikasa kills one of the Titans to save Dieter, who loses both Ivan's body and another friend to a Titan. In order to outrun the remaining Titan, Levi reluctantly orders some of the bodies to be disposed in order to lighten the wagon's load, including Petra's body. Later, Eren wakes up from a dream of his past to find himself and the Corps back at town, safely behind the wall. He becomes angry upon hearing the townspeople berate the Corps' ineptitude, until he sees a boy who admires their bravery, which sends him into tears. All the while, a shocked Levi is questioned by Petra's father over his daughter's whereabouts, who reveals that Petra planned on devoting her life to Levi. The townspeople also become enraged and upset at Erwin over the failure of the mission and the casualties that were sustained. As a result of the failed expedition, Erwin and his subordinates are summoned to the capital, where it will be decided that Eren will be handed over. 
+                        </summary_21>
+                    </aired_21>
+                </title_21>
+            </episode_21>
+        </number_21>
+    </season_21>
+    
+    <season_22>
+        <number_22>Season 1,
+            <episode_22>Episode 23,
+                <title_22>"Smile: Raid on Stohess District, Part 1",
+                    <aired_22>September 14,2013,
+                        <summary_22>
+                            Annie has a dream of being trained by her father before waking up. In the Stohess District of Wall Sina, the Military Police are ordered to escort the Recon Corps convoy once they enter the capital. The Military Police are shown to be lazy and corrupt which one of Annie's colleagues, Hitch, reveals she joined the police for that reason. Another colleague, Marlow, is disgusted, revealing he joined the police so he could reform it to become a better organization which Annie respects since he reminds her of Eren. After the convoy has entered Stohess, Annie is secretly called by Armin in the alleyways. Armin asks for her help as he is helping Eren escape the capital as the one riding in the convoy is actually Jean in disguise. She refuses at first but after Armin begs again, believing she is a good person, she finally agrees. Together with Annie, Mikasa, and Eren, Armin leads them to an underground tunnel. However, Annie refuses to enter as she has noticed Armin behaving strangely and hidden Recon Corps members watching her. Armin finally reveals his suspicion that Annie is the Female Titan since the Maneuver Gear she had after Sawney and Bean were killed is Marco's and the Female Titan did not kill him during the last expedition. Eren and Armin beg Annie to prove them wrong by following them, but knowing her identity is exposed, Annie laughs sadly and tries to transform. Despite the Corps' attempts to stop her, she succeeds in transforming using the spike in her ring. 
+                        </summary_22>
+                    </aired_22>
+                </title_22>
+            </episode_22>
+        </number_22>
+    </season_22>
+    
+    <season_23>
+        <number_23>Season 1,
+            <episode_23>Episode 24,
+                <title_23>"Mercy: Raid on Stohess District, Part 2",
+                    <aired_23>September 21,2013,
+                        <summary_23>
+                            Days before Eren is escorted to the capital, Erwin and Armin reveal to him they have a plan to capture the person they believe is the Female Titan and is shocked when they tell him it is Annie. Back in the present, Eren, Armin and Mikasa manage to escape a tunnel collapse while being hunted by the Female Titan. Eren tries to transform but is unable to which Mikasa suspects his feelings for Annie are preventing him. When another tunnel collapse traps Eren, Mikasa and Armin distract the Female Titan away from Eren. Meanwhile, Commander Nile Dawk of the Military Police demands an explanation from Erwin on what is happening as his men hold him at gunpoint. As Mikasa and the rest of the Recon Corps distract and try to capture the Female Titan, Armin and Jean attempt to free Eren from the rubble. Armin tells Eren he has to fight Annie as anyone who refuses to sacrifice anything can never change anything. As Eren thinks about what Armin said, he remembers his hatred for the Titan who killed his mother. Eren finally transforms into the Rogue Titan and charges at the Female Titan in rage. 
+                        </summary_23>
+                    </aired_23>
+                </title_23>
+            </episode_23>
+        </number_23>
+    </season_23>
+    
+    <season_24>
+        <number_24>Season 1,
+            <episode_24>Episode 25,
+                <title_24>"Wall: Raid on Stohess District, Part 3",
+                    <aired_24>September 28,2013,
+                        <summary_24>
+                            Eren and Annie fight each other as Titans throughout Stohess, causing destruction and civilian deaths while Hange orders her men to stand by before they capture Annie. Meanwhile, Erwin tells Nile he will accept responsibility for the damage his plan has caused, for which Nile has Erwin arrested while the Military Police help evacuate the civilians. After exchanging several blows, a berserk Eren completely overpowers Annie who attempts to escape by climbing up Wall Sina. However, Mikasa cuts off Annie's Titan fingers, sending her falling. As Annie falls, she remembers her father asking for forgiveness, telling her to hate the world and ask her to promise him she will come back home. When it appears Eren is about to eat Annie, he stops once he sees her crying, and her body starts encasing itself in crystal. As Eren recuperates, he admits to Mikasa, Jean, and Armin that he allowed Annie to get herself encased. As Jean and Armin wonder if sacrificing their humanity to defeat the Titans is worth the price, Erwin attends a government inquiry. Erwin reveals he kept his plans secret to prevent leaks. He further explains that despite the deaths and casualties of his plan and how they cannot get any information from Annie now that she is encased, she is proof there are humans that can turn into Titans living within the walls and he plans to find and use them to launch a counterattack against the Titans. In the end, Erwin is acquitted, Eren stays with the Recon Corps, Annie is put under the Corps' custody and the rest of the 104th Top Trainees go on their different missions. In the epilogue, a piece of Wall Sina falls, revealing the face of a Titan within the wall. 
+                        </summary_24>
+                    </aired_24>
+                </title_24>
+            </episode_24>
+        </number_24>
+    </season_24>    
+    
+</AoT>
